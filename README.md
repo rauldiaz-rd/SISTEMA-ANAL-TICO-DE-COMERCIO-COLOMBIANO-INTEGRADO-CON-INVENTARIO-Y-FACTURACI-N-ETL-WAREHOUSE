@@ -67,6 +67,9 @@ El objetivo es construir un **Data Warehouse** que permita analizar el comportam
 * **EMPRESAS**: Información empresarial en formato CSV.
 * Link: https://www.datos.gov.co/Comercio-Industria-y-Turismo/Base-de-datos-NIT-y-Actividad-Econ-mica/cas9-r54x/about_data
 
+* Las bases de datos se pueden encontrar listas para simular y los resultados de los datasets finales en el repositorio Zenodo con el identificador.
+* Link: https://doi.org/10.5281/zenodo.19448823
+
 ---
 
 ## Proceso ETL
