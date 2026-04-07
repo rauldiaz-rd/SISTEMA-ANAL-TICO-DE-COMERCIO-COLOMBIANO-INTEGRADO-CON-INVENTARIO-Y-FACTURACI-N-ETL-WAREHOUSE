@@ -54,18 +54,18 @@ El objetivo es construir un **Data Warehouse** que permita analizar el comportam
 
 ## Fuentes de datos
 
-* **EMICRON**: Información de micronegocios
-  https://microdatos.dane.gov.co/index.php/catalog/875/get-microdata
-* **CIIU**: Clasificación de actividades económicas
-  https://www.datos.gov.co/Comercio-Industria-y-Turismo/CODIGOS-CIIU-POR-MUNICIPIO/3vbk-w3sc/about_data
-* **DIVIPOLA**: División territorial de Colombia
-  https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-C-digos-municipios/gdxc-w37w/about_data
-* **IPC**: Índice de precios al consumidor
-  https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc
-* **PIB**: Producto Interno Bruto por departamento
-  https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-departamentales
-* **EMPRESAS**: Información empresarial
-  https://www.datos.gov.co/Comercio-Industria-y-Turismo/Base-de-datos-NIT-y-Actividad-Econ-mica/cas9-r54x/about_data
+* **EMICRON**: Información de micronegocios en formato CSV.
+* Link: https://microdatos.dane.gov.co/index.php/catalog/875/get-microdata
+* **CIIU**: Clasificación de actividades económicas en formato CSV.
+* Link: https://www.datos.gov.co/Comercio-Industria-y-Turismo/CODIGOS-CIIU-POR-MUNICIPIO/3vbk-w3sc/about_data
+* **DIVIPOLA**: División territorial de Colombia en formato CSV.
+* Link: https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-C-digos-municipios/gdxc-w37w/about_data
+* **IPC**: Índice de precios al consumidor en formato xlsx.
+* Link: https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc
+* **PIB**: Producto Interno Bruto por departamento en formato xlsx.
+* Link: https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-departamentales
+* **EMPRESAS**: Información empresarial en formato CSV.
+* Link: https://www.datos.gov.co/Comercio-Industria-y-Turismo/Base-de-datos-NIT-y-Actividad-Econ-mica/cas9-r54x/about_data
 
 ---
 
